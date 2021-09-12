@@ -1,0 +1,7 @@
+Listas Não Disjuntas
+Elabore um programa que recebe duas listas de valores inteiros maiores que 0 (zero). 
+A primeira lista é lida até que seja lido o valor 0 (zero). 
+Da mesma forma, a segunda lista é lida até que seja lido o valor 0 (zero). 
+Ambas as listas devem ser armazenadas como listas encadeadas. 
+Em seguida, avalie se ambas as listas possuem pelo menos um elemento em comum. 
+Se sim, imprima "SIM", e "NAO", caso contrário.
