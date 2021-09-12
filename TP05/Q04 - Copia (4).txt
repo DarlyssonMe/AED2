@@ -1,0 +1,6 @@
+Inversão de Lista usando recursividade
+
+Escreva um programa que leia uma lista de números inteiros (diferentes de zero) 
+armazenados em uma lista encadeada.Os números inteiros são lidos até que o número 0 (zero) 
+seja lido. Este é o critério de parada. Em seguida, chame uma função recursiva que gere e 
+imprima a lista invertida.
