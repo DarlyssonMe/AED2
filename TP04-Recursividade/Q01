@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+bool zero(int x){
+	if(x == 0 ){
+		return true;
+	}
+	return false; 
+}
+int incr(int x){
+    return x + 1;
+}
+int decr(int x){
+    return x - 1;
+}
+bool igual(int a, int b){
+	if(zero(a)){
+		if(zero(b)){
+			return true;
+		}
+		else{
+			return false;
+		}
+	}else if(zero(b)){
+		return false;
+	}else{
+		return igual(decr(a),decr(b));
+	}
+}
+int main(){
+	int a,b;
+	scanf("%d %d",&a,&b);
+	while(a!=0 && b!=0){
+		if(menor(a,b)){
+			printf("SIM\n");
+		}else{
+			printf("NAO\n");
+		}
+		scanf("%d %d",&a,&b);
+	}
+}
