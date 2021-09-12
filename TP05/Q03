@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main(){
+	int tam1;
+	scanf("%d",&tam1);
+	int vet1[tam1];
+	for(int a=0;a<tam1;a++){
+		scanf("%d",&vet1[a]);
+	}
+	int tam2;
+	scanf("%d",&tam2);
+	int vet2[tam2];
+	for(int a=0;a<tam2;a++){
+		scanf("%d",&vet2[a]);
+	}
+	
+	int tam3=tam1+tam2;
+	int vet3[tam3];
+	int a=0;
+	for(a=0;a<tam1;a++){
+		vet3[a]=vet1[a];
+	}
+
+	for(int b=0;b<tam2;b++){
+		vet3[a]=vet2[b];
+		a++;
+	}
+	for(int b=0;b<tam3;b++){
+		printf("%d ",vet3[b]);
+	}
+}
