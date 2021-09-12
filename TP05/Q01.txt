@@ -1,0 +1,8 @@
+Lista Encadeada
+
+Fazer um programa que leia uma quantidade indeterminada de dados de pessoas. 
+Os dados são: nome (15 caracteres), endereço (20 caracteres) e altura (ponto flutuante). 
+O critério de parada é quando o nome entrado for exatamente igual a "XXX". 
+Armazene os dados lidos em uma lista encadeada. 
+Após a leitura, calcule e imprima a média das alturas com duas casas decimais. 
+Caso a lista esteja vazia, imprimir 0.00.
