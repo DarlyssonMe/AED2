@@ -1,0 +1,9 @@
+Implemente um programa que leia duas listas encadeadas, gere e imprima o intercalamento das duas listas, de acordo com a figura abaixo.
+Ao final da função, as listas originais devem ficar vazias e ser liberadas. 
+Se uma lista tiver mais elementos que a outra, os elementos são transferidos na mesma ordem para a nova lista.
+Entrada
+A primeira linha é composta por um inteiro N1, que representa os número de elementos da primeira lista. A segunda linha é composta por N1 números reais que representam os elementos presentes na lista.
+A terceira linha é composta por um inteiros N2, que representa os número de elementos da segunda lista. A quarta linha é composta por N2 números reais que representam os elementos presentes na lista.
+
+Saída
+Como saída imprima a lista resultante da função merge.
