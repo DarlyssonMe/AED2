@@ -1,0 +1,17 @@
+Multiplicação
+
+Usando as funções zero, incr, decr, soma, 
+implemente uma função “multiplica”, que 
+recebe dois número inteiros positivos e 
+retorne o valor da multiplicação dos dois 
+valores através de somas sucessivas 
+(Ex.: 6 * 4 = 4 + 4 + 4 + 4 + 4 + 4).
+
+Leia uma quantidade indeterminada de dois 
+valores inteiros positivos e imprima o valor 
+da multiplicação dos dois valores. Os últimos 
+valores, que não devem entrar nos cálculos, 
+devem ser iguais a zero.
+
+OBS: É obrigatório que a implementação do 
+método soma seja de forma RECURSIVA.

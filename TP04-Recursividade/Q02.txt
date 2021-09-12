@@ -1,0 +1,15 @@
+Igual
+
+Usando a linguagem SIMPLE definida na questão 1, 
+implemente uma função “igual”, que receba dois número 
+inteiros positivos e retorna true se o primeiro 
+argumento é igual ao segundo e, false, caso contrário.
+
+Para o programa principal: Leia, recursivamente, 
+uma quantidade indeterminada de dois valores inteiros 
+positivos e imprima SIM se o primeiro valor for igual 
+ao segundo, ou NAO caso contrário. Os últimos valores, 
+que não devem entrar nos cálculos, devem ser iguais a zero.
+
+OBS: É obrigatório que a implementação desta função seja 
+de forma RECURSIVA utilizando as definições da linguagem SIMPLE.

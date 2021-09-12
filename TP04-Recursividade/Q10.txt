@@ -1,0 +1,10 @@
+PALÍNDROMO
+
+Escreva um programa recursivo que decida 
+se uma string é ou não um palíndromo. 
+Uma string é palíndromo se o inverso da 
+string é igual a ela mesma. Se for palíndromo, 
+retorne "sim", caso contrário, imprima "nao".
+
+OBS: Trate cada caractere da string independente 
+se for maiúscula ou minúscula, isto é, "b" é igual a "B".

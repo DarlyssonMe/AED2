@@ -1,0 +1,15 @@
+Soma de um vetor de N elementos
+
+
+Inclua na linguagem SIMPLEX a função negativo da seguinte forma:
+
+int negativo(int a) {
+  if (a<0) {return true;}
+  else {return false;}
+}
+Utilizando a linguagem SIMPLEX, faça um programa que leia um inteiro 
+N e um vetor de N numeros inteiros. Após a leitura, calcule recursivamente 
+o SOMATÓRIO desses numeros e imprima o valor deste somatório.
+
+OBS: É obrigatório que a implementação desta função seja de forma RECURSIVA 
+utilizando somente as definições da linguagem SIMPLEX.

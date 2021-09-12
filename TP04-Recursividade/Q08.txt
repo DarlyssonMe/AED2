@@ -1,0 +1,19 @@
+Soma de elementos de uma matriz
+
+Faça um programa que leia as dimensões M e N 
+de uma matriz, leia a matriz de elementos 
+inteiros e calcule recursivamente o SOMATÓRIO 
+dos elementos dessa matriz.
+
+Considere que o tamanho máximo de M e N é 20.
+
+ENTRADA
+5 4
+12 13 14 15
+13 14 15 16
+14 15 16 17
+15 16 17 18
+16 17 18 19
+
+SAÍDA
+310

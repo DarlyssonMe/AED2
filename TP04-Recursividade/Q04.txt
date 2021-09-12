@@ -1,0 +1,20 @@
+Simétrico
+
+Até agora, a linguagem SIMPLE trabalha apenas com números 
+inteiros positivos. Entretanto devido a necessidade uma 
+nova linguagem foi criada: a SIMPLE EXTENDIDA (ou SIMPLEX). 
+A SIMPLEX suporta números negativos e os operadores E, NÃO e OU. 
+Altere as funções"maior", "menor", "igual" e "diferente" para 
+suportarem números negativos.
+
+Utilizando a linguagem SIMPLEX, implemente uma função “simetrico”,
+que recebe um argumento inteiro e retorna o seu valor simétrico. 
+Por exemplo, simetrico(3) retorna -3 e simetrico(-3) retorna 3.
+
+Para o programa principal: Leia uma quantidade indeterminada de 
+valores inteiros e imprima o respectivo simétrico desse valor. 
+O último valor, que não deve entrar nos cálculos, deve ser igual a zero.
+
+OBS: É obrigatório que a implementação desta função seja de forma 
+RECURSIVA utilizando as definições da linguagem SIMPLEX.
+

@@ -1,0 +1,5 @@
+Multiplicação dos elementos de um vetor
+
+Faça um programa que leia um vetor de N 
+elementos inteiros e calcule recursivamente 
+o PRODUTÓRIO dos elementos desse vetor.

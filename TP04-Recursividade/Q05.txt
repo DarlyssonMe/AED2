@@ -1,0 +1,13 @@
+Soma
+
+Usando as funções zero, incr, decr, 
+implemente uma função (ou método) “soma”, 
+que recebe dois número inteiros positivos 
+e retorne o valor da soma dos dois valores.
+
+Leia uma quantidade indeterminada de dois 
+valores inteiros positivos e imprima o valor 
+da soma dos dois valores. Os últimos valores, 
+que não devem entrar nos cálculos, devem ser iguais a zero.
+
+OBS: É obrigatório que a implementação do método soma seja de forma RECURSIVA.

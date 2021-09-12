@@ -1,0 +1,28 @@
+Menor
+
+Considere uma linguagem chamada SIMPLE.
+Esta linguagem é uma versão extremamente primitiva de uma linguagem normal. 
+Nesta linguagem não existe NENHUM laço de repetição (for, while, repeat) 
+sendo a repetição feita através da RECURSÃO, todos os numeros utilizados 
+são positivos e existe apenas algumas funções numericas: "zero", "incr", 
+"decr". A função "zero" retorna true caso o argumento tenha valor zero, 
+senao retorna false. A função "incr" retorna o valor passado como argumento 
+incrementado em uma unidade. A função "decr" retorna o valor passado como argumento 
+decrementado em uma unidade.
+Isto implica que todos os laços de repetição (for, while e repeat), os operadores 
+relacionais (E, OU, NÃO) e as operaçoes basicas (+, -, *, /, ^, <, >, ==, !=, <=, >=) 
+NÃO PODERÂO SER UTILIZADOS EM NENHUM MOMENTO DA PROGRAMAÇÂO.
+As funções "zero", "incr" e "decr" foram discutidas em sala de aula.
+
+
+O objetivo deste trabalho é a implementação de uma função “menor” para a linguagem SIMPLE.
+Esta função receberá dois número inteiros positivos e retornará true se o primeiro argumento 
+é numericamente inferior ao segundo e, false, caso contrário.
+
+Para o programa principal: Leia, recursivamente, uma quantidade indeterminada de dois 
+valores inteiros positivos e imprima SIM se o primeiro valor for menor que o segundo, 
+ou NAO caso contrário. Os últimos valores, que não devem entrar nos cálculos, devem ser 
+iguais a zero.
+
+OBS: É obrigatório que a implementação desta função seja de forma RECURSIVA utilizando 
+as definições da linguagem SIMPLE.
